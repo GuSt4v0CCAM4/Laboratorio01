@@ -1,0 +1,11 @@
+titanic.txt#0
+titanic.txt#0
+titanic.txt#0
+titanic.txt#0
+276#1#1#Andrews, Miss. Kornelia Theodosia#female#63#1#0#13502#77.9583#D7#S
+#276#1#1#Andrews, Miss. Kornelia Theodosia#female#63#1#0#13502#77.9583#D7#S
+#titanic.txt#590754615
+titanic.txt#590754615
+titanic.txt#278
+titanic.txt#312
+titanic.txt#347
